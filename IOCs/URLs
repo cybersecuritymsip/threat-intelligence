@@ -4184,20 +4184,20 @@ costaricaesporteclube.com.br
 *.freecountrys.com
 hxxp://79.124.40.162:8080/CpzfPz07fPt6_x6jtJEwww
 hxxps://github.com/reika911/SMTP-mail/raw/refs/heads/main/ssldcs.exe
-hxxp:/23.27.143.20:9000/main.py
-hxxp://31.56.197.72:9090/lula
-hxxp://31.56.197.72/lula
-hxxp://31.56.197.72/kk
-hxxp://64.94.85.67:443/update_c08937.pl
-hxxp://68.178.160.183:8899/test111
-hxxp://68.178.160.183:8888/test
-hxxp://89.44.80.7:65456/exec-ok
-hxxp://89.44.80.7:65456/$(id|base64 -w0)
-hxxp://130.94.42.226:18805/?t=<REDACTED>
-hxxp://134.175.71.50:4123/1
-hxxp://153.75.82.220/download/x.sh
-hxxp://177.4.12.11:8080/s?t=a
-hxxp://177.4.12.11:8080/s?t=b
-hxxp://177.4.12.11:8080/s?t=c
-hxxp://62.133.62.80:80/xd7h/x
-hxxp://62.133.62.80:80/xd7h/nsmon.pl
+*.23.27.143.20:9000/main.py
+*.31.56.197.72:9090/lula
+*.31.56.197.72/lula
+*.31.56.197.72/kk
+*.64.94.85.67:443/update_c08937.pl
+*.68.178.160.183:8899/test111
+*.68.178.160.183:8888/test
+*.89.44.80.7:65456/exec-ok
+*.89.44.80.7:65456/$(id|base64 -w0)
+*.130.94.42.226:18805/?t=<REDACTED>
+*.134.175.71.50:4123/1
+*.153.75.82.220/download/x.sh
+*.177.4.12.11:8080/s?t=a
+*.177.4.12.11:8080/s?t=b
+*.177.4.12.11:8080/s?t=c
+*.62.133.62.80:80/xd7h/x
+*.62.133.62.80:80/xd7h/nsmon.pl
